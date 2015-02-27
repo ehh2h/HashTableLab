@@ -1,0 +1,20 @@
+Points          Item
+----------      --------------------------------------------------------------
+___15__ / 15      DOCUMENTATION
+                All source code files (.h and .cpp) include file name, programmer, description 
+                Functions and variables
+                + All functions preceded by brief comments  
+                + Comments included before major portions of code 
+                + Variables are commented 
+                + Functions should be no longer than 1 page
+__20___ / 20      Hash function choice
+__55___ / 65      Requirements met
+                + Templated HashTable class 
+                + Load factor alpha values 
+                + Number of records visited 
+                -- Overloaded insertion operator (Couldn't find proper place for use) :(
+
+__90___ / 100     Total
+
+
+__15___  Approximate number of hours spent
